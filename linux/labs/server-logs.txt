@@ -1,0 +1,6 @@
+192.168.1.10 - admin [10:00] login success
+192.168.1.15 - guest [10:05] login failed
+192.168.1.10 - admin [10:10] file uploaded
+10.0.0.5 - root [10:15] login success
+192.168.1.15 - guest [10:20] login failed
+192.168.1.20 - user1 [10:25] login success
