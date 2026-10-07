@@ -1,2 +1,2 @@
-# DevOps Journey Documentation
+# Cloud Journey Documentation
 This repository contains my complete learning journey.
